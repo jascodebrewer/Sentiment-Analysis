@@ -32,7 +32,7 @@ pip install pandas numpy matplotlib seaborn nltk transformers tqdm svgling
    - Execute the Python script to perform sentiment analysis and named entity recognition. The script will read the data, analyze sentiment using both VADER and RoBERTa models, and generate visualizations.
 
    ```bash
-   python amazon_sentiment_analysis.py
+   python amazon_sentiment_analysis.ipynb
    ```
 
 ## Acknowledgments
