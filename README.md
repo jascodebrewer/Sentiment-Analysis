@@ -21,6 +21,7 @@ To run the script, you need to install the required Python libraries. You can in
 
 ```bash
 pip install pandas numpy matplotlib seaborn nltk transformers tqdm svgling
+```
 
 ## Usage
 
@@ -32,8 +33,7 @@ pip install pandas numpy matplotlib seaborn nltk transformers tqdm svgling
 
    ```bash
    python amazon_sentiment_analysis.py
-
-
+```
 
 ## Acknowledgments
 
