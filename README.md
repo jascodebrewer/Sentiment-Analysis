@@ -33,7 +33,7 @@ pip install pandas numpy matplotlib seaborn nltk transformers tqdm svgling
 
    ```bash
    python amazon_sentiment_analysis.py
-```
+   ```
 
 ## Acknowledgments
 
